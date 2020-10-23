@@ -1,0 +1,18 @@
+.navbar {
+    padding: 1rem;
+    background-color: #000000;
+}
+
+.btn-primary:hover {
+    background-color: lightblue;
+    color: #ffffff;
+}
+
+.hero-background-img {
+    background-image: url("./images/scott-webb-GQD3Av_9A88-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
